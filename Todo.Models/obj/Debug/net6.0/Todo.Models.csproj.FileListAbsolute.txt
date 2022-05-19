@@ -1,0 +1,12 @@
+C:\Users\koseni\Desktop\Project\Todo.Models\bin\Debug\net6.0\Todo.Models.deps.json
+C:\Users\koseni\Desktop\Project\Todo.Models\bin\Debug\net6.0\Todo.Models.dll
+C:\Users\koseni\Desktop\Project\Todo.Models\bin\Debug\net6.0\Todo.Models.pdb
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.csproj.AssemblyReference.cache
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.AssemblyInfoInputs.cache
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.AssemblyInfo.cs
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.csproj.CoreCompileInputs.cache
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.dll
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\refint\Todo.Models.dll
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\Todo.Models.pdb
+C:\Users\koseni\Desktop\Project\Todo.Models\obj\Debug\net6.0\ref\Todo.Models.dll

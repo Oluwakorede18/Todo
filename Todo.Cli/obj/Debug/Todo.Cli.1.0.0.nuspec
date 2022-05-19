@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Todo.Cli</id>
+    <version>1.0.0</version>
+    <authors>Todo.Cli</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\koseni\Desktop\Project\Todo.Cli\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.dll" target="tools\net6.0\any\Todo.Cli.dll" />
+    <file src="C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.deps.json" target="tools\net6.0\any\Todo.Cli.deps.json" />
+    <file src="C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.runtimeconfig.json" target="tools\net6.0\any\Todo.Cli.runtimeconfig.json" />
+    <file src="C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.pdb" target="tools\net6.0\any\Todo.Cli.pdb" />
+  </files>
+</package>

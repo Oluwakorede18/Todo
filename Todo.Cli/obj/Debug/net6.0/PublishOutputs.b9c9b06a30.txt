@@ -1,0 +1,5 @@
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.exe
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.dll
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.deps.json
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.runtimeconfig.json
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\publish\Todo.Cli.pdb

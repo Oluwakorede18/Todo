@@ -1,0 +1,12 @@
+C:\Users\koseni\Desktop\Project\Todo.Data\bin\Debug\net6.0\Todo.Data.deps.json
+C:\Users\koseni\Desktop\Project\Todo.Data\bin\Debug\net6.0\Todo.Data.dll
+C:\Users\koseni\Desktop\Project\Todo.Data\bin\Debug\net6.0\Todo.Data.pdb
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.AssemblyReference.cache
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfoInputs.cache
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfo.cs
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CoreCompileInputs.cache
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.dll
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\refint\Todo.Data.dll
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\Todo.Data.pdb
+C:\Users\koseni\Desktop\Project\Todo.Data\obj\Debug\net6.0\ref\Todo.Data.dll

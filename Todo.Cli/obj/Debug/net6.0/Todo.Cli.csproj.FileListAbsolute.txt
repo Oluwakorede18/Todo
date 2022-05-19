@@ -1,0 +1,15 @@
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\Todo.Cli.exe
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\Todo.Cli.deps.json
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\Todo.Cli.runtimeconfig.json
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\Todo.Cli.dll
+C:\Users\koseni\Desktop\Project\Todo.Cli\bin\Debug\net6.0\Todo.Cli.pdb
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.csproj.AssemblyReference.cache
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.AssemblyInfoInputs.cache
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.AssemblyInfo.cs
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.csproj.CoreCompileInputs.cache
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.dll
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\refint\Todo.Cli.dll
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.pdb
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\Todo.Cli.genruntimeconfig.cache
+C:\Users\koseni\Desktop\Project\Todo.Cli\obj\Debug\net6.0\ref\Todo.Cli.dll
